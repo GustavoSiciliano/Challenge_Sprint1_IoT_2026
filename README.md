@@ -143,7 +143,7 @@ atomo/totem/{id}/nfc       → hash do UID do cartão
 
 ## 🔄 Fluxograma
 
-![Fluxograma](./IoT_Sprint1/fluxograma.png)
+![Fluxograma](./fluxograma.png)
 
 ---
 
